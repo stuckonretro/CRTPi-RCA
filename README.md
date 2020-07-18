@@ -37,8 +37,8 @@ _____
 
     Install Retropie and configure your desired content
     Connect to WiFi or Ethernet with internet access
-    NTSC: Download the CRTPi-RCA_NTSC.zip into your root folder (cd /) with the command "sudo wget https://github.com/crtpi/CRTPi-Project/raw/master/CRTPi-RCA_NTSC.zip"
-    PAL: Download the CRTPi-RCA_PAL.zip into your root folder (cd /) with the command "sudo wget https://github.com/crtpi/CRTPi-Project/raw/master/CRTPi-RCA_PAL.zip"
+    NTSC: Download the CRTPi-RCA_NTSC.zip into your root folder (cd /) with the command "sudo wget https://github.com/crtpi/CRTPi-RCA/raw/master/CRTPi-RCA_NTSC.zip"
+    PAL: Download the CRTPi-RCA_PAL.zip into your root folder (cd /) with the command "sudo wget https://github.com/crtpi/CRTPi-RCA/raw/master/CRTPi-RCA_PAL.zip"
     ***WARNING: THE NEXT STEP WILL OVERWRITE GAMELIST.XML FILES AS SHOWN IN THE REPRO! BACK UP ACCORDINGLY!!***
     Unzip and overwrite files with the command "sudo unzip -o -q CRTPi-RCA_NTSC.zip" [OR "sudo unzip -o -q CRTPi-RCA_PAL.zip"]
     Remove the zip with the command "sudo rm CRTPi-RCA_NTSC.zip" [OR "sudo rm CRTPi-RCA_PAL.zip"]
