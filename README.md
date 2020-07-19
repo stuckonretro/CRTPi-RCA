@@ -31,7 +31,7 @@ _____
 
 _____
 
-**Instructions: This is recommended to be installed on a fresh Retropie install on a 3B or 3B+ using the 4.6 offical image (Or 4.5.1 updated to 4.6). Anything you overwrite is your own fault at this point!**
+**Instructions: This is recommended to be installed on a fresh Retropie install on a 3B or 3B+ using the 4.6 official image (Or 4.5.1 updated to 4.6). Anything you overwrite is your own fault at this point!**
 
 *RCA: For Composite-Out from the Pi's 3.5mm Port to a 15khz Display*
 
